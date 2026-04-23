@@ -16,7 +16,7 @@ Blues, Soul, R&B and Reggae – and what do the data say?
 
 ## Genres Analyzed
  African: Afrobeat  
-🎵 Western: Hip-Hop, R&B, Blues, Jazz, Soul, Reggae
+ Western: Hip-Hop, R&B, Blues, Jazz, Soul, Reggae
 
 ## Key Findings
 -  Reggae has the highest danceability
