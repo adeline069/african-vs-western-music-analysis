@@ -30,7 +30,7 @@ Blues, Soul, R&B and Reggae – and what do the data say?
 - Jupyter Notebook
 
   ## Dashboard
-  - Interaktive Visualiserung ansehen[ https://datastudio.google.com/reporting/c5e299fd-5a8f-49e0-89a2-c41643638ada]
+  - view interactive visualization [ https://datastudio.google.com/reporting/c5e299fd-5a8f-49e0-89a2-c41643638ada]
 
 ## Author
 Adeline Matente | Wirtschaftsinformatik Student | H-BRS Bonn
