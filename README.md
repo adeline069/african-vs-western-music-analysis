@@ -1,8 +1,13 @@
-#  Afrobeat vs. Western Music – A Data-Driven Analysis
+
+#  A Data Analysis of Streaming Performance Across Music Genres
+
+Analyzing how audio features influence streaming popularity 
+across Afrobeats and Western music genres.
 
 ## Project Overview
-This project explores whether African music (Afrobeat) differs 
-objectively from Western Black music genres using real Spotify data.
+This project uses Spotify audio feature data to compare Afrobeats with selected Western genres.
+The goal is to examine whether differences in musical characteristics ,such as danceability, energy, valence, and tempo , 
+help explain variations in streaming popularity.
 As someone who grew up listening to both Afrobeat and Western music,
 I wanted to let the data tell the story.
 
@@ -12,14 +17,14 @@ Blues, Soul, R&B and Reggae – and what do the data say?
 
 ## Dataset
 - Source: Kaggle – Spotify Tracks Dataset
-- 7,000 songs across 7 genres (1,000 per genre)
+- 6000 songs across 6 genres (1,000 per genre)
 
 ## Genres Analyzed
  African: Afrobeat  
- Western: Hip-Hop, R&B, Blues, Jazz, Soul, Reggae
+ Western: Hip-Hop, R&B, Blues, Jazz, Soul
 
 ## Key Findings
--  Reggae has the highest danceability
+-  Hip-Hop has the highest danceability
 -  Afrobeat is the happiest genre (highest valence)
 -  Hip-Hop is the most popular on Spotify
 -  Jazz uses the most acoustic instruments
