@@ -56,7 +56,7 @@ Does higher energy lead to increased popularity and what does this imply for mus
 ## Tools Used
 - Python (pandas, matplotlib, seaborn)
 - Jupyter Notebook
-
+[**View my Notebook**](https://nbviewer.org/github/adeline069/african-vs-western-music-analysis/blob/main/spotify%20%281%29.ipynb)
 
 ## Author
 Adeline Matente | Wirtschaftsinformatik Studentin | H-BRS Bonn
